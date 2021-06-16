@@ -1,0 +1,9 @@
+D:\Documenti\Coding\C#\Click Counter\bin\Debug\Click Counter.exe.config
+D:\Documenti\Coding\C#\Click Counter\bin\Debug\Click Counter.exe
+D:\Documenti\Coding\C#\Click Counter\bin\Debug\Click Counter.pdb
+D:\Documenti\Coding\C#\Click Counter\obj\Debug\Click_Counter.Form1.resources
+D:\Documenti\Coding\C#\Click Counter\obj\Debug\Click_Counter.Properties.Resources.resources
+D:\Documenti\Coding\C#\Click Counter\obj\Debug\Click Counter.csproj.GenerateResource.cache
+D:\Documenti\Coding\C#\Click Counter\obj\Debug\Click Counter.csproj.CoreCompileInputs.cache
+D:\Documenti\Coding\C#\Click Counter\obj\Debug\Click Counter.exe
+D:\Documenti\Coding\C#\Click Counter\obj\Debug\Click Counter.pdb
